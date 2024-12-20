@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="18px" height="18px" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg" fill="#111111">
+  <title>Plus</title>
+  <rect x="10" y="4" width="4" height="16" rx="1"></rect>
+  <rect x="4" y="10" width="16" height="4" rx="1"></rect>
+</svg>
